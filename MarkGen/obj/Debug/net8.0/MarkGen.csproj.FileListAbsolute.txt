@@ -1,0 +1,14 @@
+/home/vyompant68/MarkGen/bin/Debug/net8.0/MarkGen
+/home/vyompant68/MarkGen/bin/Debug/net8.0/MarkGen.deps.json
+/home/vyompant68/MarkGen/bin/Debug/net8.0/MarkGen.runtimeconfig.json
+/home/vyompant68/MarkGen/bin/Debug/net8.0/MarkGen.dll
+/home/vyompant68/MarkGen/bin/Debug/net8.0/MarkGen.pdb
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.GeneratedMSBuildEditorConfig.editorconfig
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.AssemblyInfoInputs.cache
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.AssemblyInfo.cs
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.csproj.CoreCompileInputs.cache
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.dll
+/home/vyompant68/MarkGen/obj/Debug/net8.0/refint/MarkGen.dll
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.pdb
+/home/vyompant68/MarkGen/obj/Debug/net8.0/MarkGen.genruntimeconfig.cache
+/home/vyompant68/MarkGen/obj/Debug/net8.0/ref/MarkGen.dll
